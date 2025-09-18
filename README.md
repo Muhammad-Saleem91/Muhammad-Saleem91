@@ -18,8 +18,8 @@ Here are some ideas to get you started:
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=nautilus">
 </a> -->
 
-<a href="https://github.com/arhamansari11">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=arhamansari11&data=followers,repositories,stars,commits&theme=rgb">
+<a href="https://github.com/Muhammad-Saleem91">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Saleem91&data=followers,repositories,stars,commits&theme=rgb">
 </a>
 
 
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ---
 
 
-Hi, I'm **Muhammad Arham** , a Software Engineering Student at **Virtual University of Pakistan**.
+Hi, I'm **Muhammad Saleem** , a Computer Science Student at **DHA Suffa University**.
 
-As a software engineer specializing in AI-driven solutions, I excel in developing web (MERN) and mobile (React Native) applications while mentoring students in programming at platforms like iCodeGuru and Aspire Pakistan. With extensive experience in global hackathons and coding challenges, I bring innovation and collaboration to every project. My expertise spans Generative AI, LLMs, and advanced tech ecosystems.
+As a Software Developer, I excel in App Development (Flutter) and AI and ML and also eager to learn new things.
 
 
 <!-- [![LeetCode user arham_ansari11](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farham_ansari11&logo=leetcode&logoColor=yellow)](https://leetcode.com/arham_ansari11/)
